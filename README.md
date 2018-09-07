@@ -1,2 +1,2 @@
-# images
-permanent image store
+# uploads
+stuff go here
